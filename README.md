@@ -4,19 +4,10 @@ Building a Web API with Node.js
 
 ## Requirements
 
-- <http://nodejs.org>
-- [git](http://git-scm.com/downloads)
+- Install [Node](http://nodejs.org)
+- Install [git](http://git-scm.com/downloads)
 - NPM global modules:
   - npm install -g gulp bunyan json
-
-## Slides:
-
-[Google Slide Node.js Primer](https://docs.google.com/a/apps.disney.com/presentation/d/1OZL-2AGSRxyHtxVaKxSaaSqn1yLIDF7jme9zfeTTkC8/edit?usp=sharing)
-
-## Clone the repo
-
-    git clone git@github.disney.com:sartioli/dev-days-2015-node.git
-    cd dev-days-2015-node
 
 ### 01 Basic Server
 
