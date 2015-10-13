@@ -1,0 +1,18 @@
+{
+  "name": "node-web-api-01",
+  "version": "1.0.0",
+  "description": "Obligatory Hello World Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valerysamoivch/node-technologies.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Valery Samovich",
+  "homepage": "https://github.com/valerysamovich/node-technologies"
+}
