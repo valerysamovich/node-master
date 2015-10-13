@@ -5,12 +5,9 @@ Building a Web API with Node.js
 ## Requirements
 
 - <http://nodejs.org>
-
 - [git](http://git-scm.com/downloads)
-
 - NPM global modules:
-
-    npm install -g gulp bunyan json
+  - npm install -g gulp bunyan json
 
 ## Slides:
 
